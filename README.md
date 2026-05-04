@@ -103,7 +103,6 @@ the-drake/
 │       ├── JSONSerializable      # JSON serialization interface
 │       ├── PositionFactory       # Position creation helpers
 │       └── module-info.java
-├── screenshots/
 └── README.md
 ```
 
